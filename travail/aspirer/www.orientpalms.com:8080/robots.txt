@@ -1,0 +1,15 @@
+# robots.txt
+# @url: http://www.orientpalms.com
+# @generator: SPIP 3.1.3 [23214]
+# @template: squelettes/robots.txt.html
+
+User-agent: *
+Disallow: /ecrire/
+Disallow: /extensions/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+
+
+Sitemap: http://www.orientpalms.com/sitemap.xml

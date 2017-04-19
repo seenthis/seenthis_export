@@ -4,15 +4,70 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Seenthis.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>seenthis-action.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>seenthis-bouton-partage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>seenthis-share.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>seenthis_export.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>seenthis_share_action.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>51AEFC591EA0C8DE00802420</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51AEFC721EA0C91300802420</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51AEFC8A1EA2871800802420</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51AEFCA31EA2A45300802420</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51AEFCB91EA2A6C900802420</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51AEFCCD1EA2A75300802420</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51AEFCE01EA2A8ED00802420</key>
 		<dict>
 			<key>primary</key>
 			<true/>
